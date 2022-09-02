@@ -39,6 +39,12 @@
     }
 }
 
+.icon {
+    display: inline-block;
+    width: 24px;
+    text-align: center;
+}
+
 .primary {
     color: var(--white);
     background-color: var(--primary);
@@ -65,8 +71,6 @@
         text-decoration: underline;
     }
 }
-
-// Disabled
 
 // Button sizes
 .small {
